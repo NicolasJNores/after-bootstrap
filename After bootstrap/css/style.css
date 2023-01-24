@@ -1,0 +1,31 @@
+<!--Esto poner siempre para resetear el css incial
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+<!--Empiezo dar estilos en este caso el class hero esta en la foto 
+
+.hero {
+    height: 60vh;
+    width: 100%
+}
+
+.hero img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+<!--object fit cover sirve para que no se deforme
+section img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.row{
+    margin: 0;
+}
